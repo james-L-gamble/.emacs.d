@@ -1,0 +1,27 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ 'nil)
+(setq url-cookie-secure-storage
+ '((".wikipedia.org"
+  [url-cookie "WMF-Last-Access-Global" "07-Dec-2024" "Wed, 08 Jan 2025 00:00:00 GMT" "/" ".wikipedia.org" t])
+ ("github.com"
+  [url-cookie "_octo" "GH1.1.522624499.1733552121" "Sun, 07 Dec 2025 06:15:21 GMT" "/" "github.com" t]
+  [url-cookie "logged_in" "yes" "Sun, 07 Dec 2025 06:15:56 GMT" "/" "github.com" t]
+  [url-cookie "_device_id" "ba281b98f60210ec3683533ccd734599" "Sun, 07 Dec 2025 06:15:56 GMT" "/" "github.com" t]
+  [url-cookie "saved_user_sessions" "185013294%3Ar1yCRtfCm_KImFd1K_ya-Pkny-1qAnfIx-lfXWb_9OvWnsND" "Fri, 07 Mar 2025 06:15:56 GMT" "/" "github.com" t]
+  [url-cookie "user_session" "r1yCRtfCm_KImFd1K_ya-Pkny-1qAnfIx-lfXWb_9OvWnsND" "Sat, 21 Dec 2024 06:15:56 GMT" "/" "github.com" t]
+  [url-cookie "__Host-user_session_same_site" "r1yCRtfCm_KImFd1K_ya-Pkny-1qAnfIx-lfXWb_9OvWnsND" "Sat, 21 Dec 2024 06:15:56 GMT" "/" "github.com" t]
+  [url-cookie "dotcom_user" "james-L-gamble" "Sun, 07 Dec 2025 06:15:56 GMT" "/" "github.com" t])
+ ("en.wikipedia.org"
+  [url-cookie "WMF-Last-Access" "07-Dec-2024" "Wed, 08 Jan 2025 00:00:00 GMT" "/" "en.wikipedia.org" t]))
+)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; coding: utf-8-emacs-unix
+;; End:
+
+;;; cookies ends here

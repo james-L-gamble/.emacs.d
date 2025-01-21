@@ -1,0 +1,4 @@
+/home/firebox/.emacs.d/elpa/vterm-20241118.1627/build/CMakeFiles/vterm-module.dir
+/home/firebox/.emacs.d/elpa/vterm-20241118.1627/build/CMakeFiles/run.dir
+/home/firebox/.emacs.d/elpa/vterm-20241118.1627/build/CMakeFiles/edit_cache.dir
+/home/firebox/.emacs.d/elpa/vterm-20241118.1627/build/CMakeFiles/rebuild_cache.dir
