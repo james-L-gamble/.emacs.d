@@ -1,40 +1,128 @@
 ls
-clear
-clear
+cd projects
 ls
+clear
+clear t
 fastfetch
-clear
-vim src/main.rs
+clear t
+ls
+firefox&
+bluetoothctl
 clear
 ls
-exit
-clear
-ls
+clear 4
+ghostty&
+sudo pacman -Syu
+clear t
 fastfetch
+clear y
+emacs -nw
 vim
-sl
-exit
+clear s
+ls
+firefox&
+steam&
+ls
+clear t
+ls
+sudo pacman -Syu
+sudo pacman -S microemacs
+sudo pacman -S mg
+(1/1) checking keys in keyring                                     [-------------------------------------] 100%
+\
+chromium&
+pipewire
+volume_key 
+pamixer
+sudo pacman -Syu pamixer
+pamixer -d 10
+pamixer
+pamixer -i 10
+pamixer -i 10
+pamixer -i 10
+pamixer -i 10
+pamixer -d 40
+pamixer -i 10
+pamixer -d 10
+pamider -i 5
+pamixer -i 5
+fastfetch
+discord&
+pamixer -i 5
+pamixer -i 5
+pamixer -i 5
+pamixer -d 5
+pamixer -i 5
+pamixer -d 5
 clear
+clear t
 ls
 fastfetch
-clear
 ls
-cargo run
+01-04-25-tabs.txt  Downloads  Games                          Pictures          Templates  distro_alignment.txt  hudtodo.txt    org              putonnotesheet.txt  todo.txt             
+clear t
+ls
 clear
-fastfetchj
+clear 
+clear t
+ls
+clear
+clear
+clear
+clear
+clear t
+ls
+clear t
+clear r
+alias cleart="clear t"
+cleart
+cleart
+clear t
+ls
+clear t
+ls
+cat hudtodo.txt
+cat nonpacstuff.txt
+cat horsemen.txt
+clear t
+ls
+cat putonnotesheet
+cat putonnotesheet.txt
+cat todo.txt
+clear t
+cat todo.txt
+SDL video target is 'x11'
+clear t
+yay -Syu
+sudo pacman -Syu
+yay -Syu
+yay -S osu
+clear t
+ls
+clear t
 fastfetch
-clear
-clear
-exit
-tmux
-exit
+fastfetch -l debian
+clear t
 ls
-clear
-exit
-clear
-clear
-clear
-clear
+eshell
+clear r
 ls
+clear r
 ls
-clear
+clear t
+clear t
+;s
+ls
+cat
+grep
+clear t
+ls
+grep 24
+grep 24 todo.txt
+grep 24 ~
+clear t
+yes
+firefox&
+sudo pacman -Syu
+chromium&
+chromium&
