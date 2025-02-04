@@ -1,128 +1,128 @@
 ls
-cd projects
-ls
-clear
-clear t
-fastfetch
+adasdas
 clear t
 ls
-firefox&
-bluetoothctl
-clear
-ls
-clear 4
-ghostty&
-sudo pacman -Syu
-clear t
-fastfetch
-clear y
-emacs -nw
-vim
-clear s
-ls
-firefox&
-steam&
-ls
+sudo pacman -Syy
 clear t
 ls
 sudo pacman -Syu
-sudo pacman -S microemacs
-sudo pacman -S mg
-(1/1) checking keys in keyring                                     [-------------------------------------] 100%
-\
-chromium&
-pipewire
-volume_key 
-pamixer
-sudo pacman -Syu pamixer
-pamixer -d 10
-pamixer
-pamixer -i 10
-pamixer -i 10
-pamixer -i 10
-pamixer -i 10
-pamixer -d 40
-pamixer -i 10
-pamixer -d 10
-pamider -i 5
-pamixer -i 5
+(4/9) upgrading python-pip                                                                                                                 [-------------------------------------------------------------------------------------] 100%
+clear t
+ls
+clear t
 fastfetch
+s
+clear t
+ls
+cd .emacs.d
+git remote add origin https://codeberg.org/james-L-gamble/.emacs.d.git
+git remote set-url origin https://codeberg.org/james-L-gamble/.emacs.d.git
+git add *
+git commit
+git commit -m="update"
+git push -u origin main
+20:33:26.192 › [GatewaySocket] [HELLO] via 
+clear t
+ls
+cd ..
+ls
+clear t
+firefox&
 discord&
-pamixer -i 5
-pamixer -i 5
-pamixer -i 5
-pamixer -d 5
-pamixer -i 5
-pamixer -d 5
-clear
-clear t
-ls
-fastfetch
-ls
-01-04-25-tabs.txt  Downloads  Games                          Pictures          Templates  distro_alignment.txt  hudtodo.txt    org              putonnotesheet.txt  todo.txt             
-clear t
-ls
-clear
-clear 
-clear t
-ls
-clear
-clear
-clear
-clear
-clear t
-ls
-clear t
-clear r
-alias cleart="clear t"
-cleart
-cleart
-clear t
-ls
-clear t
-ls
-cat hudtodo.txt
-cat nonpacstuff.txt
-cat horsemen.txt
-clear t
-ls
-cat putonnotesheet
-cat putonnotesheet.txt
-cat todo.txt
-clear t
-cat todo.txt
-SDL video target is 'x11'
-clear t
-yay -Syu
 sudo pacman -Syu
-yay -Syu
-yay -S osu
-clear t
-ls
-clear t
-fastfetch
-fastfetch -l debian
-clear t
-ls
-eshell
-clear r
-ls
-clear r
-ls
-clear t
-clear t
-;s
-ls
-cat
-grep
-clear t
-ls
-grep 24
-grep 24 todo.txt
-grep 24 ~
-clear t
-yes
+chromium&         
+chromium&
+(discord:28397): libnotify-WARNING **: 19:53:04.564: Failed to connect to proxy
+steam&
 firefox&
-sudo pacman -Syu
-chromium&
-chromium&
+ghostty&
+s
+l
+ls
+clear t
+firefox&
+firefox&
+ls
+./presentation_assignment.el
+sudo !!
+sudo ./presentation_assignment.el
+ls
+fastfetch
+clear t
+ls
+cd ..
+cd ..
+cd .emacs.d
+ls
+rm custom_bindings.el
+ls
+g++ main.cpp -o main.out
+./main
+./main.out
+ls
+gcc main.c -o main.out
+./main.out
+ls
+cc
+cc main.c
+ls
+./main.out
+cc -h
+cc --help
+gcc -c main.out
+ls
+./a.out
+gcc -c main.out -o a
+ls
+gcc -S main.out
+ls
+./a.out
+gcc -S main.out -o ass.asm
+ls
+refresh
+clear t
+ls
+gcc -help
+gcc --help
+gcc -S main.c
+ls
+cat main.s
+ls
+clear t
+ls
+cat main.s
+vim main.s
+ls
+clear t
+clear t
+ls
+clear
+clear t
+ls
+cd ...
+cd ..
+ls
+cd rust/chapter3/
+ls
+cargo run
+clear t
+ls
+yay -Syu uemacs-git
+uemacs-4.0
+uemacs-4
+em-4
+em-4.0
+ls
+clear t
+ls
+cargo run new
+cargo run
+clear t
+ls
+gcc main.c -o main.out
+./main.out
+gcc main.c -o main.out
+gcc main.c -o main.out
+./main.out
+gcc main.c -o main.out
+gcc main.c -o main.out
