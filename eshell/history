@@ -1,5 +1,3 @@
-git commit
-git commit -m="update"
 git push -u origin main
 20:33:26.192 › [GatewaySocket] [HELLO] via 
 clear t
@@ -126,3 +124,5 @@ kill libreoffice
 clear t
 libreoffice&
 libreoffice&
+sudo apt install semgrep
+q
